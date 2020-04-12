@@ -1,0 +1,1602 @@
+[
+  {
+    "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the length of the train?",
+    "optionD": "150 metres",
+    "optionB": "180 metres",
+    "optionC": "324 metres",
+    "optionA": "120 metres",
+    "answer": "150 metres"
+  },
+  {
+    "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is:",
+    "optionD": "55 km/hr",
+    "optionB": "50 km/hr",
+    "optionC": "54 km/hr",
+    "optionA": "45 km/hr",
+    "answer": "50 km/hr"
+  },
+  {
+    "question": "The length of the bridge, which a train 130 metres long and travelling at 45 km/hr can cross in 30 seconds, is:",
+    "optionD": "250 m",
+    "optionB": "225 m",
+    "optionC": "245 m",
+    "optionA": "200 m",
+    "answer": "245 m"
+  },
+  {
+    "question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+    "optionD": "None of these",
+    "optionB": "3 : 2",
+    "optionC": "3 : 4",
+    "optionA": "1 : 3",
+    "answer": "3 : 2"
+  },
+  {
+    "question": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/hr, what is the length of the platform?",
+    "optionD": "None of these",
+    "optionB": "240 m",
+    "optionC": "300 m",
+    "optionA": "120 m",
+    "answer": "240 m"
+  },
+  {
+    "question": "A train 240 m long passes a pole in 24 seconds. How long will it take to pass a platform 650 m long?",
+    "optionD": "150 sec",
+    "optionB": "89 sec",
+    "optionC": "100 sec",
+    "optionA": "65 sec",
+    "answer": "89 sec"
+  },
+  {
+    "question": "Two trains of equal length are running on parallel lines in the same direction at 46 km/hr and 36 km/hr. The faster train passes the slower train in 36 seconds. The length of each train is:",
+    "optionD": "82 m",
+    "optionB": "72 m",
+    "optionC": "80 m",
+    "optionA": "50 m",
+    "answer": "50 m"
+  },
+  {
+    "question": "A train 360 m long is running at a speed of 45 km/hr. In what time will it pass a bridge 140 m long?",
+    "optionD": "48 sec",
+    "optionB": "42 sec",
+    "optionC": "45 sec",
+    "optionA": "40 sec",
+    "answer": "40 sec"
+  },
+  {
+    "question": "Two trains are moving in opposite directions @ 60 km/hr and 90 km/hr. Their lengths are 1.10 km and 0.9 km respectively. The time taken by the slower train to cross the faster train in seconds is:",
+    "optionD": "49",
+    "optionB": "45",
+    "optionC": "48",
+    "optionA": "36",
+    "answer": "48"
+  },
+  {
+    "question": "A jogger running at 9 kmph alongside a railway track in 240 metres ahead of the engine of a 120 metres long train running at 45 kmph in the same direction. In how much time will the train pass the jogger?",
+    "optionD": "72 sec",
+    "optionB": "18 sec",
+    "optionC": "36 sec",
+    "optionA": "3.6 sec",
+    "answer": "36 sec"
+  },
+  {
+    "question": "A 270 metres long train running at the speed of 120 kmph crosses another train running in opposite direction at the speed of 80 kmph in 9 seconds. What is the length of the other train?",
+    "optionD": "320 m",
+    "optionB": "240 m",
+    "optionC": "260 m",
+    "optionA": "230 m",
+    "answer": "230 m"
+  },
+  {
+    "question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+    "optionD": "270 m",
+    "optionB": "240 m",
+    "optionC": "260 m",
+    "optionA": "230 m",
+    "answer": "270 m"
+  },
+  {
+    "question": "Two trains, each 100 m long, moving in opposite directions, cross each other in 8 seconds. If one is moving twice as fast the other, then the speed of the faster train is:",
+    "optionD": "75 km/hr",
+    "optionB": "45 km/hr",
+    "optionC": "60 km/hr",
+    "optionA": "30 km/hr",
+    "answer": "60 km/hr"
+  },
+  {
+    "question": "Two trains 140 m and 160 m long run at the speed of 60 km/hr and 40 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is:",
+    "optionD": "10.8",
+    "optionB": "9.6",
+    "optionC": "10",
+    "optionA": "9",
+    "answer": "10.8"
+  },
+  {
+    "question": "A train 110 metres long is running with a speed of 60 kmph. In what time will it pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?",
+    "optionD": "10 sec",
+    "optionB": "6 sec",
+    "optionC": "7 sec",
+    "optionA": "5 sec",
+    "answer": "6 sec"
+  },
+  {
+    "question": "A train travelling at a speed of 75 mph enters a tunnel 3 miles long. The train is  mile long. How long does it take for the train to pass through the tunnel from the moment the front enters to the moment the rear emerges?",
+    "optionD": "3.5 min",
+    "optionB": "3 min",
+    "optionC": "3.2 min",
+    "optionA": "2.5 min",
+    "answer": "3 min"
+  },
+  {
+    "question": "A train 800 metres long is running at a speed of 78 km/hr. If it crosses a tunnel in 1 minute, then the length of the tunnel (in meters) is:",
+    "optionD": "540",
+    "optionB": "360",
+    "optionC": "500",
+    "optionA": "130",
+    "answer": "500"
+  },
+  {
+    "question": "A 300 metre long train crosses a platform in 39 seconds while it crosses a signal pole in 18 seconds. What is the length of the platform?",
+    "optionD": "Data inadequate",
+    "optionB": "350 m",
+    "optionC": "650 m",
+    "optionA": "320 m",
+    "answer": "350 m"
+  },
+  {
+    "question": "A train speeds past a pole in 15 seconds and a platform 100 m long in 25 seconds. Its length is:",
+    "optionD": "Data inadequate",
+    "optionB": "150 m",
+    "optionC": "200 m",
+    "optionA": "50 m",
+    "answer": "150 m"
+  },
+  {
+    "question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+    "optionD": "79.2 km/hr",
+    "optionB": "70 km/hr",
+    "optionC": "79 km/hr",
+    "optionA": "69.5 km/hr",
+    "answer": "79.2 km/hr"
+  },
+  {
+    "question": "A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:",
+    "optionD": "Rs. 700",
+    "optionB": "Rs. 690",
+    "optionC": "Rs. 698",
+    "optionA": "Rs. 650",
+    "answer": "Rs. 698"
+  },
+  {
+    "question": "Mr. Thomas invested an amount of Rs. 13,900 divided in two different schemes A and B at the simple interest rate of 14% p.a. and 11% p.a. respectively. If the total amount of simple interest earned in 2 years be Rs. 3508, what was the amount invested in Scheme B?",
+    "optionD": "Rs. 7500",
+    "optionB": "Rs. 6500",
+    "optionC": "Rs. 7200",
+    "optionA": "Rs. 6400",
+    "answer": "Rs. 6400"
+  },
+  {
+    "question": "A sum fetched a total simple interest of Rs. 4016.25 at the rate of 9 p.c.p.a. in 5 years. What is the sum?",
+    "optionD": "Rs. 8925",
+    "optionB": "Rs. 8032.50",
+    "optionC": "Rs. 8900",
+    "optionA": "Rs. 4462.50",
+    "answer": "Rs. 8925"
+  },
+  {
+    "question": "How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?",
+    "optionD": "5 years",
+    "optionB": "4 years",
+    "optionC": "4.5 years",
+    "optionA": "3.5 years",
+    "answer": "4 years"
+  },
+  {
+    "question": "Reena took a loan of Rs. 1200 with simple interest for as many years as the rate of interest. If she paid Rs. 432 as interest at the end of the loan period, what was the rate of interest?",
+    "optionD": "Cannot be determined",
+    "optionB": "6",
+    "optionC": "18",
+    "optionA": "3.6",
+    "answer": "6"
+  },
+  {
+    "question": "The cost price of 20 articles is the same as the selling price of x articles. If the profit is 25%, then the value of x is:",
+    "optionD": "25",
+    "optionB": "16",
+    "optionC": "18",
+    "optionA": "15",
+    "answer": "16"
+  },
+  {
+    "question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+    "optionD": "250%",
+    "optionB": "70%",
+    "optionC": "100%",
+    "optionA": "30%",
+    "answer": "70%"
+  },
+  {
+    "question": "A vendor bought toffees at 6 for a rupee. How many for a rupee must he sell to gain 20%?",
+    "optionD": "6",
+    "optionB": "4",
+    "optionC": "5",
+    "optionA": "3",
+    "answer": "5"
+  },
+  {
+    "question": "A shopkeeper expects a gain of 22.5% on his cost price. If in a week, his sale was of Rs. 392, what was his profit?",
+    "optionD": "Rs. 88.25",
+    "optionB": "Rs. 70",
+    "optionC": "Rs. 72",
+    "optionA": "Rs. 18.20",
+    "answer": "Rs. 72"
+  },
+  {
+    "question": "A man buys a cycle for Rs. 1400 and sells it at a loss of 15%. What is the selling price of the cycle?",
+    "optionD": "Rs. 1202",
+    "optionB": "Rs. 1160",
+    "optionC": "Rs. 1190",
+    "optionA": "Rs. 1090",
+    "answer": "Rs. 1190"
+  },
+  {
+    "question": "If 20% of  a = b, then b% of 20 is the same as:",
+    "optionD": "None of these",
+    "optionB": "5% of a",
+    "optionC": "20% of a",
+    "optionA": "4% of a",
+    "answer": "4% of a"
+  },
+  {
+    "question": "In a certain school, 20% of students are below 8 years of age. The number of students above 8 years of age is  of the number of students of 8 years of age which is 48. What is the total number of students in the school?",
+    "optionD": "100",
+    "optionB": "80",
+    "optionC": "120",
+    "optionA": "72",
+    "answer": "100"
+  },
+  {
+    "question": "Two numbers A and B are such that the sum of 5% of A and 4% of B is two-third of the sum of 6% of A and 8% of B. Find the ratio of A : B.",
+    "optionD": "4 : 3",
+    "optionB": "1 : 1",
+    "optionC": "3 : 4",
+    "optionA": "2 : 3",
+    "answer": "4 : 3"
+  },
+  {
+    "question": "In an election between two candidates,  one got 55% of the total valid votes, 20% of the votes were invalid. If the total number of votes was 7500, the number of valid votes that the other candidate got, was:",
+    "optionD": "3100",
+    "optionB": "2900",
+    "optionC": "3000",
+    "optionA": "2700",
+    "answer": "2700"
+  },
+  {
+    "question": "Two students appeared at an examination. One of them secured 9 marks more than the other and his marks was 56% of the sum of their marks. The marks obtained by them are:",
+    "optionD": "43, 34",
+    "optionB": "41, 32",
+    "optionC": "42, 33",
+    "optionA": "39, 30",
+    "answer": "42, 33"
+  },
+  {
+    "question": "A fruit seller had some apples. He sells 40% apples and still has 420 apples. Originally, he had:",
+    "optionD": "700 apples",
+    "optionB": "600 apples",
+    "optionC": "672 apples",
+    "optionA": "588 apples",
+    "answer": "700 apples"
+  },
+  {
+    "question": "What percentage of numbers from 1 to 70 have 1 or 9 in the unit's digit?",
+    "optionD": "21",
+    "optionB": "14",
+    "optionC": "20",
+    "optionA": "1",
+    "answer": "20"
+  },
+  {
+    "question": "If A = x% of y and B = y% of x, then which of the following is true?",
+    "optionD": "If x is smaller than y, then A is greater than B.",
+    "optionB": "A is greater than B",
+    "optionC": "Relationship between A and B cannot be determined.",
+    "optionA": "None of these",
+    "answer": "None of these"
+  },
+  {
+    "question": "It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?",
+    "optionD": "Wednesday",
+    "optionB": "Saturday",
+    "optionC": "Friday",
+    "optionA": "Sunday",
+    "answer": "Friday"
+  },
+  {
+    "question": "What was the day of the week on 28th May, 2006?",
+    "optionD": "Sunday",
+    "optionB": "Friday",
+    "optionC": "Saturday",
+    "optionA": "Thursday",
+    "answer": "Sunday"
+  },
+  {
+    "question": "What was the day of the week on 17th June, 1998?",
+    "optionD": "Thursday",
+    "optionB": "Tuesday",
+    "optionC": "Wednesday",
+    "optionA": "Monday",
+    "answer": "Wednesday"
+  },
+  {
+    "question": "What will be the day of the week 15th August, 2010?",
+    "optionD": "Friday",
+    "optionB": "Monday",
+    "optionC": "Tuesday",
+    "optionA": "Sunday",
+    "answer": "Sunday"
+  },
+  {
+    "question": "Today is Monday. After 61 days, it will be:",
+    "optionD": "Thursday",
+    "optionB": "Saturday",
+    "optionC": "Tuesday",
+    "optionA": "Wednesday",
+    "answer": "Saturday"
+  },
+  {
+    "question": "If 6th March, 2005 is Monday, what was the day of the week on 6th March, 2004?",
+    "optionD": "Wednesday",
+    "optionB": "Saturday",
+    "optionC": "Tuesday",
+    "optionA": "Sunday",
+    "answer": "Sunday"
+  },
+  {
+    "question": "On what dates of April, 2001 did Wednesday fall?",
+    "optionD": "4th, 11th, 18th, 25th",
+    "optionB": "2nd, 9th, 16th, 23rd, 30th",
+    "optionC": "3rd, 10th, 17th, 24th",
+    "optionA": "1st, 8th, 15th, 22nd, 29th",
+    "answer": "4th, 11th, 18th, 25th"
+  },
+  {
+    "question": "How many days are there in x weeks x days?",
+    "optionD": "7",
+    "optionB": "8x",
+    "optionC": "14x",
+    "optionA": "7x2",
+    "answer": "8x"
+  },
+  {
+    "question": "The last day of a century cannot be",
+    "optionD": "Friday",
+    "optionB": "Wednesday",
+    "optionC": "Tuesday",
+    "optionA": "Monday",
+    "answer": "Tuesday"
+  },
+  {
+    "question": "On 8th Feb, 2005 it was Tuesday. What was the day of the week on 8th Feb, 2004?",
+    "optionD": "Wednesday",
+    "optionB": "Monday",
+    "optionC": "Sunday",
+    "optionA": "Tuesday",
+    "answer": "Sunday"
+  },
+  {
+    "question": "The calendar for the year 2007 will be the same for the year:",
+    "optionD": "2018",
+    "optionB": "2016",
+    "optionC": "2017",
+    "optionA": "2014",
+    "answer": "2018"
+  },
+  {
+    "question": "Which of the following is not a leap year?",
+    "optionD": "2000",
+    "optionB": "800",
+    "optionC": "1200",
+    "optionA": "700",
+    "answer": "700"
+  },
+  {
+    "question": "On 8th Dec, 2007 Saturday falls. What day of the week was it on 8th Dec, 2006?",
+    "optionD": "Friday",
+    "optionB": "Thursday",
+    "optionC": "Tuesday",
+    "optionA": "Sunday",
+    "answer": "Friday"
+  },
+  {
+    "question": "January 1, 2008 is Tuesday. What day of the week lies on Jan 1, 2009?",
+    "optionD": "Sunday",
+    "optionB": "Wednesday",
+    "optionC": "Thursday",
+    "optionA": "Monday",
+    "answer": "Thursday"
+  },
+  {
+    "question": "January 1, 2007 was Monday. What day of the week lies on Jan. 1, 2008?",
+    "optionD": "Sunday",
+    "optionB": "Tuesday",
+    "optionC": "Wednesday",
+    "optionA": "Monday",
+    "answer": "Tuesday"
+  },
+  {
+    "question": "The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?",
+    "optionD": "None of these",
+    "optionB": "24 years",
+    "optionC": "25 years",
+    "optionA": "23 years",
+    "answer": "23 years"
+  },
+  {
+    "question": "The average monthly income of P and Q is Rs. 5050. The average monthly income of Q and R is Rs. 6250 and the average monthly income of P and R is Rs. 5200. The monthly income of P is:",
+    "optionD": "5000",
+    "optionB": "4000",
+    "optionC": "4050",
+    "optionA": "3500",
+    "answer": "4000"
+  },
+  {
+    "question": "The average age of husband, wife and their child 3 years ago was 27 years and that of wife and the child 5 years ago was 20 years. The present age of the husband is:",
+    "optionD": "None of these",
+    "optionB": "40 years",
+    "optionC": "50 years",
+    "optionA": "35 years",
+    "answer": "40 years"
+  },
+  {
+    "question": "A car owner buys petrol at Rs.7.50, Rs. 8 and Rs. 8.50 per litre for three successive years. What approximately is the average cost per litre of petrol if he spends Rs. 4000 each year?",
+    "optionD": "Rs. 9",
+    "optionB": "Rs. 8",
+    "optionC": "Rs. 8.50",
+    "optionA": "Rs. 7.98",
+    "answer": "Rs. 7.98"
+  },
+  {
+    "question": "In Arun's opinion, his weight is greater than 65 kg but less than 72 kg. His brother doest not agree with Arun and he thinks that Arun's weight is greater than 60 kg but less than 70 kg. His mother's view is that his weight cannot be greater than 68 kg. If all are them are correct in their estimation, what is the average of different probable weights of Arun?",
+    "optionD": "Data inadequate",
+    "optionB": "68 kg.",
+    "optionC": "69 kg.",
+    "optionA": "67 kg.",
+    "answer": "67 kg."
+  },
+  {
+    "question": "The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and that of B and C be 43 kg, then the weight of B is:",
+    "optionD": "31 kg",
+    "optionB": "20 kg",
+    "optionC": "26 kg",
+    "optionA": "17 kg",
+    "answer": "31 kg"
+  },
+  {
+    "question": "The average weight of 16 boys in a class is 50.25 kg and that of the remaining 8 boys is 45.15 kg. Find the average weights of all the boys in the class.",
+    "optionD": "49.25 kg",
+    "optionB": "48 kg",
+    "optionC": "48.55 kg",
+    "optionA": "47.55 kg",
+    "answer": "48.55 kg"
+  },
+  {
+    "question": "A library has an average of 510 visitors on Sundays and 240 on other days. The average number of visitors per day in a month of 30 days beginning with a Sunday is:",
+    "optionD": "285",
+    "optionB": "276",
+    "optionC": "280",
+    "optionA": "250",
+    "answer": "285"
+  },
+  {
+    "question": "If the average marks of three batches of 55, 60 and 45 students respectively is 50, 55, 60, then the average marks of all the students is:",
+    "optionD": "None of these",
+    "optionB": "54.68",
+    "optionC": "55",
+    "optionA": "53.33",
+    "answer": "54.68"
+  },
+  {
+    "question": "A pupil's marks were wrongly entered as 83 instead of 63. Due to that the average marks for the class got increased by half (1/2). The number of pupils in the class is:",
+    "optionD": "73",
+    "optionB": "20",
+    "optionC": "40",
+    "optionA": "10",
+    "answer": "40"
+  },
+  {
+    "question": "A right triangle with sides 3 cm, 4 cm and 5 cm is rotated the side of 3 cm to form a cone. The volume of the cone so formed is:",
+    "optionD": "20pi cm3",
+    "optionB": "15pi cm3",
+    "optionC": "16pi cm3",
+    "optionA": "12pi cm3",
+    "answer": "12pi cm3"
+  },
+  {
+    "question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+    "optionD": "75000 cu. m",
+    "optionB": "750 cu. m",
+    "optionC": "7500 cu. m",
+    "optionA": "75 cu. m",
+    "answer": "750 cu. m"
+  },
+  {
+    "question": "A hall is 15 m long and 12 m broad. If the sum of the areas of the floor and the ceiling is equal to the sum of the areas of four walls, the volume of the hall is:",
+    "optionD": "1800",
+    "optionB": "900",
+    "optionC": "1200",
+    "optionA": "720",
+    "answer": "1200"
+  },
+  {
+    "question": "66 cubic centimetres of silver is drawn into a wire 1 mm in diameter. The length of the wire in metres will be:",
+    "optionD": "336",
+    "optionB": "90",
+    "optionC": "168",
+    "optionA": "84",
+    "answer": "84"
+  },
+  {
+    "question": "A hollow iron pipe is 21 cm long and its external diameter is 8 cm. If the thickness of the pipe is 1 cm and iron weighs 8 g/cm3, then the weight of the pipe is:",
+    "optionD": "36.9 kg",
+    "optionB": "3.696 kg",
+    "optionC": "36 kg",
+    "optionA": "3.6 kg",
+    "answer": "3.696 kg"
+  },
+  {
+    "question": "A boat having a length 3 m and breadth 2 m is floating on a lake. The boat sinks by 1 cm when a man gets on it. The mass of the man is:",
+    "optionD": "96 kg",
+    "optionB": "60 kg",
+    "optionC": "72 kg",
+    "optionA": "12 kg",
+    "answer": "60 kg"
+  },
+  {
+    "question": "50 men took a dip in a water tank 40 m long and 20 m broad on a religious day. If the average displacement of water by a man is 4 m3, then the rise in the water level in the tank will be:",
+    "optionD": "50 cm",
+    "optionB": "25 cm",
+    "optionC": "35 cm",
+    "optionA": "20 cm",
+    "answer": "25 cm"
+  },
+  {
+    "question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface.",
+    "optionD": "80pi m2",
+    "optionB": "40pi m2",
+    "optionC": "60pi m2",
+    "optionA": "30pi m2",
+    "answer": "60pi m2"
+  },
+  {
+    "question": "A cistern 6m long and 4 m wide contains water up to a depth of 1 m 25 cm. The total area of the wet surface is:",
+    "optionD": "55 m2",
+    "optionB": "50 m2",
+    "optionC": "53.5 m2",
+    "optionA": "49 m2",
+    "answer": "49 m2"
+  },
+  {
+    "question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off so as to make an open box. If the length of the square is 8 m, the volume of the box (in m3) is:",
+    "optionD": "8960",
+    "optionB": "5120",
+    "optionC": "6420",
+    "optionA": "4830",
+    "answer": "5120"
+  },
+  {
+    "question": "The curved surface area of a cylindrical pillar is 264 m2 and its volume is  924 m3. Find the ratio of its diameter to its height.",
+    "optionD": "7 : 6",
+    "optionB": "7 : 3",
+    "optionC": "6 : 7",
+    "optionA": "3 : 7",
+    "answer": "7 : 3"
+  },
+  {
+    "question": "A cistern of capacity 8000 litres measures externally 3.3 m by 2.6 m by 1.1 m and its walls are 5 cm thick. The thickness of the bottom is:",
+    "optionD": "1.1 cm",
+    "optionB": "1 dm",
+    "optionC": "1 m",
+    "optionA": "90 cm",
+    "answer": "1 dm"
+  },
+  {
+    "question": "What is the total surface area of a right circular cone of height 14 cm and base radius 7 cm?",
+    "optionD": "None of these",
+    "optionB": "462 cm2",
+    "optionC": "498.35 cm2",
+    "optionA": "344.35 cm2",
+    "answer": "498.35 cm2"
+  },
+  {
+    "question": "A large cube is formed from the material obtained by melting three smaller cubes of 3, 4 and 5 cm side. What is the ratio of the total surface areas of the smaller cubes and the large cube?",
+    "optionD": "27 : 20",
+    "optionB": "3 : 2",
+    "optionC": "25 : 18",
+    "optionA": "2 : 1",
+    "answer": "25 : 18"
+  },
+  {
+    "question": "How many bricks, each measuring 25 cm x 11.25 cm x 6 cm, will be needed to build a wall of 8 m x 6 m x 22.5 cm?",
+    "optionD": "7200",
+    "optionB": "6000",
+    "optionC": "6400",
+    "optionA": "5600",
+    "answer": "6400"
+  },
+  {
+    "question": "Which one of the following is not a prime number?",
+    "optionD": "91",
+    "optionB": "61",
+    "optionC": "71",
+    "optionA": "31",
+    "answer": "91"
+  },
+  {
+    "question": "(112 x 5^4) = ?",
+    "optionD": "77200",
+    "optionB": "70000",
+    "optionC": "76500",
+    "optionA": "67000",
+    "answer": "70000"
+  },
+  {
+    "question": "It is being given that (2^32 + 1) is completely divisible by a whole number. Which of the following numbers is completely divisible by this number?",
+    "optionD": "(2^16 + 1)",
+    "optionB": "(2^16 - 1)",
+    "optionC": "(7 x 2^23)",
+    "optionA": "(2^96 + 1)",
+    "answer": "(296 + 1)"
+  },
+  {
+    "question": "What least number must be added to 1056, so that the sum is completely divisible by 23 ?",
+    "optionD": "21",
+    "optionB": "3",
+    "optionC": "18",
+    "optionA": "2",
+    "answer": "2"
+  },
+  {
+    "question": "1397 x 1397 = ?",
+    "optionD": "2031719",
+    "optionB": "1981709",
+    "optionC": "18362619",
+    "optionA": "1951609",
+    "answer": "1951609"
+  },
+  {
+    "question": "How many of the following numbers are divisible by 132 ?\n264, 396, 462, 792, 968, 2178, 5184, 6336",
+    "optionD": "7",
+    "optionB": "5",
+    "optionC": "6",
+    "optionA": "4",
+    "answer": "4"
+  },
+  {
+    "question": "(935421 x 625) = ?",
+    "optionD": "585628125",
+    "optionB": "584638125",
+    "optionC": "584649125",
+    "optionA": "575648125",
+    "answer": "584638125"
+  },
+  {
+    "question": "The largest 4 digit number exactly divisible by 88 is:",
+    "optionD": "8888",
+    "optionB": "9768",
+    "optionC": "9988",
+    "optionA": "9944",
+    "answer": "9944"
+  },
+  {
+    "question": "Which of the following is a prime number ?",
+    "optionD": "97",
+    "optionB": "81",
+    "optionC": "93",
+    "optionA": "33",
+    "answer": "97"
+  },
+  {
+    "question": "What is the unit digit in {(6374)^1793 x (625)^317 x (341^491)}?",
+    "optionD": "5",
+    "optionB": "2",
+    "optionC": "3",
+    "optionA": "0",
+    "answer": "0"
+  },
+  {
+    "question": "Which of the following number is divisible by 24 ?",
+    "optionD": "3125736",
+    "optionB": "63810",
+    "optionC": "537804",
+    "optionA": "35718",
+    "answer": "3125736"
+  },
+  {
+    "question": "(?) + 3699 + 1985 - 2047 = 31111",
+    "optionD": "27574",
+    "optionB": "27474",
+    "optionC": "30154",
+    "optionA": "34748",
+    "answer": "27474"
+  },
+  {
+    "question": "If the number 481 * 673 is completely divisible by 9, then the smallest whole number in place of * will be:",
+    "optionD": "7",
+    "optionB": "5",
+    "optionC": "6",
+    "optionA": "2",
+    "answer": "7"
+  },
+  {
+    "question": "The difference between the local value and the face value of 7 in the numeral 32675149 is",
+    "optionD": "69993",
+    "optionB": "64851",
+    "optionC": "5149",
+    "optionA": "75142",
+    "answer": "69993"
+  },
+  {
+    "question": "The difference between a positive proper fraction and its reciprocal is 9/20. The fraction is:",
+    "optionD": "4/3",
+    "optionB": "3/10",
+    "optionC": "4/5",
+    "optionA": "3/5",
+    "answer": "4/5"
+  },
+  {
+    "question": "On dividing a number by 56, we get 29 as remainder. On dividing the same number by 8, what will be the remainder ?",
+    "optionD": "7",
+    "optionB": "5",
+    "optionC": "6",
+    "optionA": "4",
+    "answer": "5"
+  },
+  {
+    "question": "If n is a natural number, then (6n2 + 6n) is always divisible by:",
+    "optionD": "by 18 only",
+    "optionB": "6 and 12 both",
+    "optionC": "12 only",
+    "optionA": "6 only",
+    "answer": "6 and 12 both"
+  },
+  {
+    "question": "107 x 107 + 93 x 93 = ?",
+    "optionD": "21908",
+    "optionB": "19418",
+    "optionC": "20098",
+    "optionA": "19578",
+    "answer": "20098"
+  },
+  {
+    "question": "What will be remainder when (6767 + 67) is divided by 68 ?",
+    "optionD": "67",
+    "optionB": "63",
+    "optionC": "66",
+    "optionA": "1",
+    "answer": "66"
+  },
+  {
+    "question": "On dividing a number by 5, we get 3 as remainder. What will the remainder when the square of the this number is divided by 5 ?",
+    "optionD": "4",
+    "optionB": "1",
+    "optionC": "2",
+    "optionA": "0",
+    "answer": "4"
+  },
+  {
+    "question": "How many 3-digit numbers are completely divisible 6 ?",
+    "optionD": "166",
+    "optionB": "150",
+    "optionC": "151",
+    "optionA": "149",
+    "answer": "150"
+  },
+  {
+    "question": "How many natural numbers are there between 23 and 100 which are exactly divisible by 6 ?",
+    "optionD": "13",
+    "optionB": "11",
+    "optionC": "12",
+    "optionA": "8",
+    "answer": "13"
+  },
+  {
+    "question": "How many of the following numbers are divisible by 3 but not by 9 ?\n2133, 2343, 3474, 4131, 5286, 5340, 6336, 7347, 8115, 9276",
+    "optionD": "None of these",
+    "optionB": "6",
+    "optionC": "7",
+    "optionA": "5",
+    "answer": "6"
+  },
+  {
+    "question": "((963 + 476)^2 + (963 - 476)^2)/(963 x 963 + 476 x 476)=?",
+    "optionD": "4",
+    "optionB": "497",
+    "optionC": "2",
+    "optionA": "1449",
+    "answer": "2"
+  },
+  {
+    "question": "How many 3 digit numbers are divisible by 6 in all ?",
+    "optionD": "166",
+    "optionB": "150",
+    "optionC": "151",
+    "optionA": "149",
+    "answer": "150"
+  },
+  {
+    "question": "A 3-digit number 4a3 is added to another 3-digit number 984 to give a 4-digit number 13b7, which is divisible by 11. Then, (a + b) = ?",
+    "optionD": "15",
+    "optionB": "11",
+    "optionC": "12",
+    "optionA": "10",
+    "answer": "10"
+  },
+  {
+    "question": "8597 - ? = 7429 - 4358",
+    "optionD": "5476",
+    "optionB": "5706",
+    "optionC": "5526",
+    "optionA": "5426",
+    "answer": "5526"
+  },
+  {
+    "question": "The smallest prime number is:",
+    "optionD": "4",
+    "optionB": "2",
+    "optionC": "3",
+    "optionA": "1",
+    "answer": "2"
+  },
+  {
+    "question": "(12345679 x 72) = ?",
+    "optionD": "9999999998",
+    "optionB": "888888888",
+    "optionC": "898989898",
+    "optionA": "88888888",
+    "answer": "888888888"
+  },
+  {
+    "question": "On dividing a number by 357, we get 39 as remainder. On dividing the same number 17, what will be the remainder ?",
+    "optionD": "11",
+    "optionB": "3",
+    "optionC": "5",
+    "optionA": "0",
+    "answer": "5"
+  },
+  {
+    "question": "If the product 4864 x 9 P 2 is divisible by 12, then the value of P is:",
+    "optionD": "8",
+    "optionB": "5",
+    "optionC": "6",
+    "optionA": "2",
+    "answer": "None of these"
+  },
+  {
+    "question": "Which one of the following is the common factor of (47^43 + 43^43) and (47^47 + 43^47) ?",
+    "optionD": "None of these",
+    "optionB": "(47 + 43)",
+    "optionC": "(47^43 + 43^43)",
+    "optionA": "(47 - 43)",
+    "answer": "(47 + 43)"
+  },
+  {
+    "question": "-84 x 29 + 365 = ?",
+    "optionD": "-2071",
+    "optionB": "2801",
+    "optionC": "-2801",
+    "optionA": "2436",
+    "answer": "-2071"
+  },
+  {
+    "question": "A number when divided by 296 leaves 75 as remainder. When the same number is divided by 37, the remainder will be:",
+    "optionD": "11",
+    "optionB": "2",
+    "optionC": "8",
+    "optionA": "1",
+    "answer": "1"
+  },
+  {
+    "question": "In dividing a number by 585, a student employed the method of short division. He divided the number successively by 5, 9 and 13 (factors 585) and got the remainders 4, 8, 12 respectively. If he had divided the number by 585, the remainder would have been",
+    "optionD": "584",
+    "optionB": "144",
+    "optionC": "292",
+    "optionA": "24",
+    "answer": "584"
+  },
+  {
+    "question": "In a division sum, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, what is the dividend ?",
+    "optionD": "5336",
+    "optionB": "4306",
+    "optionC": "4336",
+    "optionA": "4236",
+    "answer": "5336"
+  },
+  {
+    "question": "4500 x ? = 3375",
+    "optionD": "3/5",
+    "optionB": "3/4",
+    "optionC": "1/4",
+    "optionA": "2/5",
+    "answer": "3/4"
+  },
+  {
+    "question": "What smallest number should be added to 4456 so that the sum is completely divisible by 6 ?",
+    "optionD": "1",
+    "optionB": "3",
+    "optionC": "2",
+    "optionA": "4",
+    "answer": "2"
+  },
+  {
+    "question": "What least number must be subtracted from 13601, so that the remainder is divisible by 87 ?",
+    "optionD": "37",
+    "optionB": "31",
+    "optionC": "29",
+    "optionA": "23",
+    "answer": "29"
+  },
+  {
+    "question": "476 ** 0 is divisible by both 3 and 11. The non-zero digits in the hundred's and ten's places are respectively:",
+    "optionD": "None of these",
+    "optionB": "7 and 5",
+    "optionC": "8 and 5",
+    "optionA": "7 and 4",
+    "answer": "8 and 5"
+  },
+  {
+    "question": "If the number 97215 * 6 is completely divisible by 11, then the smallest whole number in place of * will be:",
+    "optionD": "5",
+    "optionB": "2",
+    "optionC": "1",
+    "optionA": "3",
+    "answer": "3"
+  },
+  {
+    "question": "(11^2 + 12^2 + 13^2 + ... + 20^2) = ?",
+    "optionD": "3255",
+    "optionB": "2485",
+    "optionC": "2870",
+    "optionA": "385",
+    "answer": "2485"
+  },
+  {
+    "question": "If the number 5 * 2 is divisible by 6, then * = ?",
+    "optionD": "7",
+    "optionB": "3",
+    "optionC": "6",
+    "optionA": "2",
+    "answer": "2"
+  },
+  {
+    "question": "Which of the following numbers will completely divide (49^15 - 1) ?",
+    "optionD": "50",
+    "optionB": "14",
+    "optionC": "46",
+    "optionA": "8",
+    "answer": "8"
+  },
+  {
+    "question": "On dividing 2272 as well as 875 by 3-digit number N, we get the same remainder. The sum of the digits of N is:",
+    "optionD": "13",
+    "optionB": "11",
+    "optionC": "12",
+    "optionA": "10",
+    "answer": "10"
+  },
+  {
+    "question": "A boy multiplied 987 by a certain number and obtained 559981 as his answer. If in the answer both 9 are wrong and the other digits are correct, then the correct answer would be:",
+    "optionD": "556581",
+    "optionB": "555181",
+    "optionC": "555681",
+    "optionA": "553681",
+    "answer": "555681"
+  },
+  {
+    "question": "How many prime numbers are less than 50 ?",
+    "optionD": "18",
+    "optionB": "15",
+    "optionC": "14",
+    "optionA": "16",
+    "answer": "15"
+  },
+  {
+    "question": "397 x 397 + 104 x 104 + 2 x 397 x 104 = ?",
+    "optionD": "261001",
+    "optionB": "251001",
+    "optionC": "260101",
+    "optionA": "250001",
+    "answer": "251001"
+  },
+  {
+    "question": "(35423 + 7164 + 41720) - (317 x 89) = ?",
+    "optionD": "56094",
+    "optionB": "84307",
+    "optionC": "50694",
+    "optionA": "28213",
+    "answer": "56094"
+  },
+  {
+    "question": "(x^n - a^n) is completely divisible by (x - a), when",
+    "optionD": "n is prime",
+    "optionB": "n is an even natural number",
+    "optionC": "n is and odd natural number",
+    "optionA": "n is any natural number",
+    "answer": "n is any natural number"
+  },
+  {
+    "question": "Which one of the following numbers is completely divisible by 45?",
+    "optionD": "2033555",
+    "optionB": "331145",
+    "optionC": "202860",
+    "optionA": "181560",
+    "answer": "202860"
+  },
+  {
+    "question": "Which of the following numbers will completely divide (3^25 + 3^26 + 3^27 + 3^28) ?",
+    "optionD": "30",
+    "optionB": "16",
+    "optionC": "25",
+    "optionA": "11",
+    "answer": "30"
+  },
+  {
+    "question": "A number when divide by 6 leaves a remainder 3. When the square of the number is divided by 6, the remainder is:",
+    "optionD": "3",
+    "optionB": "1",
+    "optionC": "2",
+    "optionA": "0",
+    "answer": "3"
+  },
+  {
+    "question": "The sum of the two numbers is 12 and their product is 35. What is the sum of the reciprocals of these numbers ?",
+    "optionD": "7/32",
+    "optionB": "1/35",
+    "optionC": "35/8",
+    "optionA": "12/35",
+    "answer": "12/35"
+  },
+  {
+    "question": "What will be remainder when 17^200 is divided by 18 ?",
+    "optionD": "2",
+    "optionB": "16",
+    "optionC": "1",
+    "optionA": "17",
+    "answer": "1"
+  },
+  {
+    "question": "If 1400 x x = 1050. Then, x = ?",
+    "optionD": "3/4",
+    "optionB": "3/5",
+    "optionC": "2/3",
+    "optionA": "1/4",
+    "answer": "3/4"
+  },
+  {
+    "question": "(12 + 22 + 32 + ... + 102) = ?",
+    "optionD": "385",
+    "optionB": "345",
+    "optionC": "365",
+    "optionA": "330",
+    "answer": "385"
+  },
+  {
+    "question": "The difference of the squares of two consecutive even integers is divisible by which of the following integers ?",
+    "optionD": "7",
+    "optionB": "4",
+    "optionC": "6",
+    "optionA": "3",
+    "answer": "4"
+  },
+  {
+    "question": "Which one of the following is a prime number ?",
+    "optionD": "None of these",
+    "optionB": "187",
+    "optionC": "247",
+    "optionA": "119",
+    "answer": "None of these"
+  },
+  {
+    "question": "The sum all even natural numbers between 1 and 31 is:",
+    "optionD": "512",
+    "optionB": "128",
+    "optionC": "240",
+    "optionA": "16",
+    "answer": "240"
+  },
+  {
+    "question": "The difference between the place value and the face value of 6 in the numeral 856973 is",
+    "optionD": "None of these",
+    "optionB": "6973",
+    "optionC": "5994",
+    "optionA": "973",
+    "answer": "5994"
+  },
+  {
+    "question": "If a and b are odd numbers, then which of the following is even ?",
+    "optionD": "ab + 2",
+    "optionB": "a + b + 1",
+    "optionC": "ab",
+    "optionA": "a + b",
+    "answer": "a + b"
+  },
+  {
+    "question": "Which one of the following numbers is completely divisible by 99?",
+    "optionD": "114345",
+    "optionB": "135792",
+    "optionC": "913464",
+    "optionA": "3572404",
+    "answer": "114345"
+  },
+  {
+    "question": "The sum of how many terms of the series 6 + 12 + 18 + 24 + ... is 1800 ?",
+    "optionD": "18",
+    "optionB": "24",
+    "optionC": "20",
+    "optionA": "16",
+    "answer": "24"
+  },
+  {
+    "question": "(51+ 52 + 53 + ... + 100) = ?",
+    "optionD": "3775",
+    "optionB": "2975",
+    "optionC": "3225",
+    "optionA": "2525",
+    "answer": "3775"
+  },
+  {
+    "question": "1904 x 1904 = ?",
+    "optionD": "3623436",
+    "optionB": "3632646",
+    "optionC": "3625216",
+    "optionA": "3654316",
+    "answer": "3625216"
+  },
+  {
+    "question": "What is the unit digit in(7^95 - 3^58)?",
+    "optionD": "7",
+    "optionB": "4",
+    "optionC": "6",
+    "optionA": "0",
+    "answer": "4"
+  },
+  {
+    "question": "Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+    "optionD": "13",
+    "optionB": "7",
+    "optionC": "9",
+    "optionA": "4",
+    "answer": "4"
+  },
+  {
+    "question": "The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:",
+    "optionD": "345",
+    "optionB": "299",
+    "optionC": "322",
+    "optionA": "276",
+    "answer": "322"
+  },
+  {
+    "question": "Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?",
+    "optionD": "16",
+    "optionB": "10",
+    "optionC": "15",
+    "optionA": "4",
+    "answer": "16"
+  },
+  {
+    "question": "Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:",
+    "optionD": "8",
+    "optionB": "5",
+    "optionC": "6",
+    "optionA": "4",
+    "answer": "4"
+  },
+  {
+    "question": "The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:",
+    "optionD": "9800",
+    "optionB": "9400",
+    "optionC": "9600",
+    "optionA": "9000",
+    "answer": "9600"
+  },
+  {
+    "question": "The product of two numbers is 4107. If the H.C.F. of these numbers is 37, then the greater number is:",
+    "optionD": "185",
+    "optionB": "107",
+    "optionC": "111",
+    "optionA": "101",
+    "answer": "111"
+  },
+  {
+    "question": "Three number are in the ratio of 3 : 4 : 5 and their L.C.M. is 2400. Their H.C.F. is:",
+    "optionD": "200",
+    "optionB": "80",
+    "optionC": "120",
+    "optionA": "40",
+    "answer": "40"
+  },
+  {
+    "question": "The G.C.D. of 1.08, 0.36 and 0.9 is:",
+    "optionD": "0.108",
+    "optionB": "0.9",
+    "optionC": "0.18",
+    "optionA": "0.03",
+    "answer": "0.18"
+  },
+  {
+    "question": "The product of two numbers is 2028 and their H.C.F. is 13. The number of such pairs is:",
+    "optionD": "4",
+    "optionB": "2",
+    "optionC": "3",
+    "optionA": "1",
+    "answer": "2"
+  },
+  {
+    "question": "The least multiple of 7, which leaves a remainder of 4, when divided by 6, 9, 15 and 18 is:",
+    "optionD": "364",
+    "optionB": "94",
+    "optionC": "184",
+    "optionA": "74",
+    "answer": "364"
+  },
+  {
+    "question": "Find the lowest common multiple of 24, 36 and 40.",
+    "optionD": "480",
+    "optionB": "240",
+    "optionC": "360",
+    "optionA": "120",
+    "answer": "360"
+  },
+  {
+    "question": "The least number which should be added to 2497 so that the sum is exactly divisible by 5, 6, 4 and 3 is:",
+    "optionD": "33",
+    "optionB": "13",
+    "optionC": "23",
+    "optionA": "3",
+    "answer": "23"
+  },
+  {
+    "question": "Reduce 128352/238368 to its lowest terms.",
+    "optionD": "9/13",
+    "optionB": "5/13",
+    "optionC": "7/13",
+    "optionA": "3/4",
+    "answer": "7/13"
+  },
+  {
+    "question": "The least number which when divided by 5, 6 , 7 and 8 leaves a remainder 3, but when divided by 9 leaves no remainder, is:",
+    "optionD": "3363",
+    "optionB": "1683",
+    "optionC": "2523",
+    "optionA": "1677",
+    "answer": "1683"
+  },
+  {
+    "question": "A, B and C start at the same time in the same direction to run around a circular stadium. A completes a round in 252 seconds, B in 308 seconds and c in 198 seconds, all starting at the same point. After what time will they again at the starting point ?",
+    "optionD": "46 minutes and 12 seconds",
+    "optionB": "42 minutes and 36 seconds",
+    "optionC": "45 minutes",
+    "optionA": "26 minutes and 18 seconds",
+    "answer": "46 minutes and 12 seconds"
+  },
+  {
+    "question": "The H.C.F. of two numbers is 11 and their L.C.M. is 7700. If one of the numbers is 275, then the other is:",
+    "optionD": "318",
+    "optionB": "283",
+    "optionC": "308",
+    "optionA": "279",
+    "answer": "308"
+  },
+  {
+    "question": "What will be the least number which when doubled will be exactly divisible by 12, 18, 21 and 30 ?",
+    "optionD": "2520",
+    "optionB": "630",
+    "optionC": "1260",
+    "optionA": "196",
+    "answer": "630"
+  },
+  {
+    "question": "The ratio of two numbers is 3 : 4 and their H.C.F. is 4. Their L.C.M. is:",
+    "optionD": "48",
+    "optionB": "16",
+    "optionC": "24",
+    "optionA": "12",
+    "answer": "48"
+  },
+  {
+    "question": "The smallest number which when diminished by 7, is divisible 12, 16, 18, 21 and 28 is:",
+    "optionD": "1032",
+    "optionB": "1015",
+    "optionC": "1022",
+    "optionA": "1008",
+    "answer": "1015"
+  },
+  {
+    "question": "252 can be expressed as a product of primes as:",
+    "optionD": "2 x 3 x 3 x 3 x 7",
+    "optionB": "2 x 2 x 2 x 3 x 7",
+    "optionC": "3 x 3 x 3 x 3 x 7",
+    "optionA": "2 x 2 x 3 x 3 x 7",
+    "answer": "2 x 2 x 3 x 3 x 7"
+  },
+  {
+    "question": "The greatest possible length which can be used to measure exactly the lengths 7 m, 3 m 85 cm, 12 m 95 cm is:",
+    "optionD": "42 cm",
+    "optionB": "25 cm",
+    "optionC": "35 cm",
+    "optionA": "15 cm",
+    "answer": "35 cm"
+  },
+  {
+    "question": "Three numbers which are co-prime to each other are such that the product of the first two is 551 and that of the last two is 1073. The sum of the three numbers is:",
+    "optionD": "89",
+    "optionB": "81",
+    "optionC": "85",
+    "optionA": "75",
+    "answer": "85"
+  },
+  {
+    "question": "Find the highest common factor of 36 and 84.",
+    "optionD": "18",
+    "optionB": "6",
+    "optionC": "12",
+    "optionA": "4",
+    "answer": "12"
+  },
+  {
+    "question": "Which of the following fraction is the largest ?",
+    "optionD": "63/80",
+    "optionB": "13/16",
+    "optionC": "31/40",
+    "optionA": "7/8",
+    "answer": "7/8"
+  },
+  {
+    "question": "The least number, which when divided by 12, 15, 20 and 54 leaves in each case a remainder of 8 is:",
+    "optionD": "548",
+    "optionB": "536",
+    "optionC": "544",
+    "optionA": "504",
+    "answer": "548"
+  },
+  {
+    "question": "The greatest number which on dividing 1657 and 2037 leaves remainders 6 and 5 respectively, is:",
+    "optionD": "305",
+    "optionB": "127",
+    "optionC": "235",
+    "optionA": "123",
+    "answer": "127"
+  },
+  {
+    "question": "Which of the following has the most number of divisors?",
+    "optionD": "182",
+    "optionB": "101",
+    "optionC": "176",
+    "optionA": "99",
+    "answer": "176"
+  },
+  {
+    "question": "The L.C.M. of two numbers is 48. The numbers are in the ratio 2 : 3. Then sum of the number is:",
+    "optionD": "64",
+    "optionB": "32",
+    "optionC": "40",
+    "optionA": "28",
+    "answer": "40"
+  },
+  {
+    "question": "The H.C.F. of 9/10,12/25,18/35 and 21/40 is:",
+    "optionD": "63/700",
+    "optionB": "252/5",
+    "optionC": "3/1400",
+    "optionA": "3/5",
+    "answer": "3/1400"
+  },
+  {
+    "question": "If the sum of two numbers is 55 and the H.C.F. and L.C.M. of these numbers are 5 and 120 respectively, then the sum of the reciprocals of the numbers is equal to:",
+    "optionD": "120/11",
+    "optionB": "601/55",
+    "optionC": "11/120",
+    "optionA": "55/601",
+    "answer": "11/120"
+  },
+  {
+    "question": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+    "optionD": "5 hours",
+    "optionB": "3 hours",
+    "optionC": "4 hours",
+    "optionA": "2 hours",
+    "answer": "4 hours"
+  },
+  {
+    "question": "A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:",
+    "optionD": "12.5 km/hr",
+    "optionB": "9 km/hr",
+    "optionC": "10 km/hr",
+    "optionA": "8.5 km/hr",
+    "answer": "10 km/hr"
+  },
+  {
+    "question": "A boat running upstream takes 8 hours 48 minutes to cover a certain distance, while it takes 4 hours to cover the same distance running downstream. What is the ratio between the speed of the boat and speed of the water current respectively?",
+    "optionD": "Cannot be determined",
+    "optionB": "3 : 2",
+    "optionC": "8 : 3",
+    "optionA": "2 : 1",
+    "answer": "8 : 3"
+  },
+  {
+    "question": "A motorboat, whose speed in 15 km/hr in still water goes 30 km downstream and comes back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+    "optionD": "10",
+    "optionB": "5",
+    "optionC": "6",
+    "optionA": "4",
+    "answer": "5"
+  },
+  {
+    "question": "In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is:",
+    "optionD": "9 km/hr",
+    "optionB": "5 km/hr",
+    "optionC": "8 km/hr",
+    "optionA": "3 km/hr",
+    "answer": "8 km/hr"
+  },
+  {
+    "question": "A boat running downstream covers a distance of 16 km in 2 hours while for covering the same distance upstream, it takes 4 hours. What is the speed of the boat in still water?",
+    "optionD": "Data inadequate",
+    "optionB": "6 km/hr",
+    "optionC": "8 km/hr",
+    "optionA": "4 km/hr",
+    "answer": "6 km/hr"
+  },
+  {
+    "question": "The speed of a boat in still water in 15 km/hr and the rate of current is 3 km/hr. The distance travelled downstream in 12 minutes is:",
+    "optionD": "3.6 km",
+    "optionB": "1.8 km",
+    "optionC": "2.4 km",
+    "optionA": "1.2 km",
+    "answer": "3.6 km"
+  },
+  {
+    "question": "A boat takes 90 minutes less to travel 36 miles downstream than to travel the same distance upstream. If the speed of the boat in still water is 10 mph, the speed of the stream is:",
+    "optionD": "4 mph",
+    "optionB": "2.5 mph",
+    "optionC": "3 mph",
+    "optionA": "2 mph",
+    "answer": "2 mph"
+  },
+  {
+    "question": "A man can row at 5 kmph in still water. If the velocity of current is 1 kmph and it takes him 1 hour to row to a place and come back, how far is the place?",
+    "optionD": "3.6 km",
+    "optionB": "2.5 km",
+    "optionC": "3 km",
+    "optionA": "2.4 km",
+    "answer": "2.4 km"
+  },
+  {
+    "question": "A boat covers a certain distance downstream in 1 hour, while it comes back in 1 hours. If the speed of the stream be 3 kmph, what is the speed of the boat in still water?",
+    "optionD": "15 kmph",
+    "optionB": "13 kmph",
+    "optionC": "14 kmph",
+    "optionA": "12 kmph",
+    "answer": "15 kmph"
+  },
+  {
+    "question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+    "optionD": "1 hr 30 min",
+    "optionB": "1 hour",
+    "optionC": "1 hr 15 min",
+    "optionA": "40 minutes",
+    "answer": "1 hr 15 min"
+  },
+  {
+    "question": "A man can row three-quarters of a kilometre against the stream in 11 minutes and down the stream in 7 minutes. The speed (in km/hr) of the man in still water is:",
+    "optionD": "5",
+    "optionB": "3",
+    "optionC": "4",
+    "optionA": "2",
+    "answer": "5"
+  },
+  {
+    "question": "Speed of a boat in standing water is 9 kmph and the speed of the stream is 1.5 kmph. A man rows to a place at a distance of 105 km and comes back to the starting point. The total time taken by him is:",
+    "optionD": "24 hours",
+    "optionB": "18 hours",
+    "optionC": "20 hours",
+    "optionA": "16 hours",
+    "answer": "24 hours"
+  },
+  {
+    "question": "A man takes twice as long to row a distance against the stream as to row the same distance in favour of the stream. The ratio of the speed of the boat (in still water) and the stream is:",
+    "optionD": "4 : 3",
+    "optionB": "3 : 1",
+    "optionC": "3 : 2",
+    "optionA": "2 : 1",
+    "answer": "3 : 1"
+  },
+  {
+    "question": "A man rows to a place 48 km distant and come back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:",
+    "optionD": "2.5 km/hr",
+    "optionB": "1.5 km/hr",
+    "optionC": "2 km/hr",
+    "optionA": "1 km/hr",
+    "answer": "1 km/hr"
+  },
+  {
+    "question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are there on the committee. In how many ways can it be done?",
+    "optionD": "756",
+    "optionB": "645",
+    "optionC": "735",
+    "optionA": "564",
+    "answer": "756"
+  },
+  {
+    "question": "In how many different ways can the letters of the word 'LEADING' be arranged in such a way that the vowels always come together?",
+    "optionD": "5040",
+    "optionB": "480",
+    "optionC": "720",
+    "optionA": "360",
+    "answer": "720"
+  },
+  {
+    "question": "In how many different ways can the letters of the word 'CORPORATION' be arranged so that the vowels always come together?",
+    "optionD": "50400",
+    "optionB": "1440",
+    "optionC": "2880",
+    "optionA": "810",
+    "answer": "50400"
+  },
+  {
+    "question": "Out of 7 consonants and 4 vowels, how many words of 3 consonants and 2 vowels can be formed?",
+    "optionD": "21400",
+    "optionB": "1050",
+    "optionC": "25200",
+    "optionA": "210",
+    "answer": "25200"
+  },
+  {
+    "question": "In how many ways can the letters of the word 'LEADER' be arranged?",
+    "optionD": "720",
+    "optionB": "144",
+    "optionC": "360",
+    "optionA": "72",
+    "answer": "360"
+  },
+  {
+    "question": "In a group of 6 boys and 4 girls, four children are to be selected. In how many different ways can they be selected such that at least one boy should be there?",
+    "optionD": "209",
+    "optionB": "194",
+    "optionC": "205",
+    "optionA": "159",
+    "answer": "209"
+  },
+  {
+    "question": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+    "optionD": "20",
+    "optionB": "10",
+    "optionC": "15",
+    "optionA": "5",
+    "answer": "20"
+  },
+  {
+    "question": "In how many ways a committee, consisting of 5 men and 6 women can be formed from 8 men and 10 women?",
+    "optionD": "86400",
+    "optionB": "5040",
+    "optionC": "11760",
+    "optionA": "266",
+    "answer": "11760"
+  },
+  {
+    "question": "A box contains 2 white balls, 3 black balls and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+    "optionD": "96",
+    "optionB": "48",
+    "optionC": "64",
+    "optionA": "32",
+    "answer": "64"
+  },
+  {
+    "question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+    "optionD": "60",
+    "optionB": "48",
+    "optionC": "36",
+    "optionA": "32",
+    "answer": "36"
+  }
+]
