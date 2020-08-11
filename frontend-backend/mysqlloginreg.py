@@ -27,6 +27,21 @@ class Users(Base):
     password = Column(String(400),nullable=False)
     created = Column(String(400),nullable=False)
 
+class User_Data(Base):
+    __tablename__ = 'userData'
+    testid = Column(Integer,primary_key = True)
+    userid = Column(Integer,ForeignKey('Users.userid',ondelete = 'CASCADE'),primary_key=True)
+    email = Column(String(8080),nullable=False)
+    score = Column(Integer,nullable=False)
+    numberOfQuestions = Column(Integer,nullable=False)
+    numberOfAnsweredQuestions = Column(Integer,nullable=False)
+    correctAnswers = Column(Integer,nullable=False)
+    wrongAnswers = Column(Integer,nullable=False)
+    hintsUsed = Column(Integer,nullable=False)
+    
+    
+    
+
 engine = create_engine('sqlite:///project.db', connect_args={'check_same_thread': False}, echo=True,pool_pre_ping=True)
 cur= engine.connect()
 Base.metadata.create_all(engine)
@@ -96,7 +111,20 @@ def store_user_quiz_details():
     #user_details = decode_token(token,app.config.get('JWT_SECRET_KEY'))
     #print(user_details)
     #user_email = user_details['identity']['email']
-    '''cur.execute("INSERT INTO userData (email, score, numberOfQuestions, numberOfAnsweredQuestions, correctAnswers, wrongAnswers,hintsUsed) VALUES ('" + 
+    '''test_count = 0
+    res = cur.execute('select * from userData')
+    
+    for row in res :
+        ride_count += 1
+        if ride_count >= 1 :
+            for row in res :
+                if ride_id<row['rideid']:
+                    ride_id = row['rideid']
+                             
+            ride_id += 1
+        else :
+            ride_id = 1
+    cur.execute("INSERT INTO userData (testid, email, score, numberOfQuestions, numberOfAnsweredQuestions, correctAnswers, wrongAnswers,hintsUsed) VALUES ('" + 
 		str(user_email) + "', '" + 
 		score + "', '" + 
 		numberOfQuestions + "', '" + 
@@ -104,8 +132,8 @@ def store_user_quiz_details():
         correctAnswers + "', '" + 
         wrongAnswers + "', '" + 
         hintsUsed + "')")
-    res = cur.execute('select * from userData')'''
-    '''for i in res :
+    res = cur.execute('select * from userData')
+    for i in res :
         print(i)'''
     
     return  request.get_json(),200
